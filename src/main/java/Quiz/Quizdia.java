@@ -1,3 +1,5 @@
+package Quiz;
+
 public class Quizdia {
     public static void main(String[] args) {
 
