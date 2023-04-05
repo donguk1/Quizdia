@@ -1,6 +1,6 @@
 package Ex_6;
 
-public class Ex6_8 {
+public class Ex6_08 {
     public static void main(String[] args) {
         int hap = 0;
         int i;
