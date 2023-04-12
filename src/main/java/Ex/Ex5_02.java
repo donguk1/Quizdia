@@ -10,4 +10,15 @@ public class Ex5_02 {
         }
         System.out.printf("프로그램 끝! \n");
     }
+
+    public static class Hello {
+
+        public static void main(String[] args) {
+
+            System.out.println("Ex.Ex5_02.Hello!! my First Java Coding!!");
+
+            System.out.println("add code");
+
+        }
+    }
 }

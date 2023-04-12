@@ -29,7 +29,7 @@ public class Quiz0411_B {
 
             }
         }
-        System.out.printf("가장 큰 값 : %d \n", arr[5-1]);
+        System.out.printf("가장 큰 값 : %d \n", arr[4]);
         System.out.printf("가장 작은 값 : %d \n", arr[0]);
         System.out.printf("평균 값 : %d \n", hap/5);
     }
